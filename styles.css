@@ -143,6 +143,7 @@ button { color: inherit; font: inherit; }
 .beginner__facts small { font-size: .55em; }
 .note { margin: 20px 0 26px; padding: 13px 16px; color: var(--forest-deep); background: rgba(232,117,25,.08); border-left: 3px solid var(--orange); font-size: 13px; }
 .text-link { min-height: 48px; display: inline-flex; align-items: center; gap: 18px; color: var(--forest); border-bottom: 1px solid currentColor; font-weight: 700; }
+.text-link + .text-link { margin-top: 12px; display: flex; width: fit-content; }
 
 .facility__head { max-width: none; display: grid; grid-template-columns: 1fr .65fr; gap: 70px; align-items: end; }
 .facility__head > p { max-width: 460px; margin: 0 0 8px; color: #5f675f; }
