@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kumamotoshooting4965-rgb.github.io/shooting-range-hp/sitemap.xml
